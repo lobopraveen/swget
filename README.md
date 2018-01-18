@@ -1,6 +1,8 @@
 # swget
 swget - A simple wget downloader
 
+Additional information and alternatives available at https://praveenlobo.com/blog/swget-a-simple-wget-wrapper/ 
+
 
 ## Specifications:
 
@@ -19,5 +21,3 @@ Downloads the contents to the present working directory; it also creates a log f
 Once started, the download continues until it is complete. It doesn't stop downloads at 8AM. If you have a large file you'd have to take care of stopping the download at 8AM.
 Also, I'm not sure if the incomplete downloads are resumed. By default wget command resumes incomplete downloads but I have not tested it.
 
-
-Additional information and alternatives available at https://praveenlobo.com/blog/swget-a-simple-wget-wrapper/ 
