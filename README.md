@@ -3,7 +3,7 @@ swget - A simple wget downloader
 
 Additional information and alternatives available at https://praveenlobo.com/blog/swget-a-simple-wget-wrapper/ 
 
-(Migrating to GitHub AS-IS; some of it might be outdated.)
+(Migrating to GitHub AS-IS; code in this repo might be outdated.)
 
 ## Specifications:
 
